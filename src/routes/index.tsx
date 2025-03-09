@@ -23,7 +23,7 @@ export default component$(() => {
         <div class="m-20 flex">
           <div class="relative rounded-lg hover:shadow-2xl transition duration-300 ease-in-out transform hover:scale-110 hover:translate-y-2 opacity-20 hover:opacity-100">
             <img
-              src="https://christieathome.com/wp-content/uploads/2021/07/Egg-Fried-Rice-5-500x500.jpg"
+              src="https://eu.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fredhousespice.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fyanzhou-fried-rice-7-scaled.jpg&sp=1741541504Tf08276467022cb134b71fa4597afb5de198ad084546ed279b9026f68fa16ac4a"
               class="rounded-4xl hover:opacity-100"
               width="500"
               height="500"
@@ -65,14 +65,14 @@ export default component$(() => {
         <div class="m-20 flex">
           <div class="relative rounded-lg hover:shadow-2xl transition duration-300 ease-in-out transform hover:scale-110 hover:translate-y-2 opacity-20 hover:opacity-100">
             <img
-              src="https://christieathome.com/wp-content/uploads/2021/07/Egg-Fried-Rice-5-500x500.jpg"
+              src="https://eu.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fi.imgflip.com%2F2%2F63kigq.jpg&sp=1741541792Taa27724be23b2c49f894335af67bde78b86aa0f3b913a4220dcf8af7a5601a9f"
               class="rounded-4xl hover:opacity-100"
               width="500"
               height="500"
             />
             <div class="absolute top-0 left-0 right-0 bottom-0 flex items-center justify-center opacity-0 hover:opacity-100 transition duration-300 ease-in-out transform hover:scale-110 hover:translate-y-2">
               <Link
-                href="/dookie"
+                href="https://github.com/naomytocin/aphug-cookbook"
                 class="zhi-mang-xing-regular text-2xl scale-500 text-gray-900"
               >
                 code
