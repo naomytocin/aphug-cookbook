@@ -18,12 +18,12 @@ export default component$(() => {
       <br />
       <br />
       <br />
-      <h1 class="eb-garamond-bold text-center text-4xl">china cookbook</h1>
+      <h1 class="eb-garamond-bold text-center text-4xl"></h1>
       <div class="eb-garamond-norm flex h-screen items-center justify-center">
         <div class="m-20 flex">
-          <div class="relative rounded-lg hover:shadow-2xl transition duration-300 ease-in-out transform hover:scale-110 hover:translate-y-2 opacity-20 hover:opacity-100">
+          <div class="relative rounded-lg hover:shadow-2xl transition duration-300 ease-in-out transform hover:scale-110 hover:translate-y-2 opacity-64 hover:opacity-100">
             <img
-              src="https://eu.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fredhousespice.com%2Fwp-content%2Fuploads%2F2023%2F06%2Fyanzhou-fried-rice-7-scaled.jpg&sp=1741541504Tf08276467022cb134b71fa4597afb5de198ad084546ed279b9026f68fa16ac4a"
+              src="https://flolum.com/wp-content/uploads/2023/12/yangchowrice-blog-500x500.jpg"
               class="rounded-4xl hover:opacity-100"
               width="500"
               height="500"
@@ -42,7 +42,7 @@ export default component$(() => {
           </div>
         </div>
         <div class="m-20 flex">
-          <div class="relative rounded-lg hover:shadow-2xl transition duration-300 ease-in-out transform hover:scale-110 hover:translate-y-2 opacity-20 hover:opacity-100">
+          <div class="relative rounded-lg hover:shadow-2xl transition duration-300 ease-in-out transform hover:scale-110 hover:translate-y-2 opacity-64 hover:opacity-100">
             <img
               src="https://christieathome.com/wp-content/uploads/2021/07/Egg-Fried-Rice-5-500x500.jpg"
               class="rounded-4xl hover:opacity-100"
@@ -63,9 +63,9 @@ export default component$(() => {
           </div>
         </div>
         <div class="m-20 flex">
-          <div class="relative rounded-lg hover:shadow-2xl transition duration-300 ease-in-out transform hover:scale-110 hover:translate-y-2 opacity-20 hover:opacity-100">
+          <div class="relative rounded-lg hover:shadow-2xl transition duration-300 ease-in-out transform hover:scale-110 hover:translate-y-2 opacity-64 hover:opacity-100">
             <img
-              src="https://eu.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fi.imgflip.com%2F2%2F63kigq.jpg&sp=1741541792Taa27724be23b2c49f894335af67bde78b86aa0f3b913a4220dcf8af7a5601a9f"
+              src="https://cdn.meme.com/images/memes/38/title-original-1640893085.png"
               class="rounded-4xl hover:opacity-100"
               width="500"
               height="500"
